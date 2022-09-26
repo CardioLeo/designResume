@@ -18,7 +18,7 @@ Blog: PerilousResonance.wordpress.com/
 ---
 
 
-Education
+- Education
 
 Promineo Tech
 Front End Bootcamp 
@@ -39,4 +39,29 @@ from graduating)
 ---
 
 
+- Certificates + Courses
 
+Udemy Courses
+-C++: From Beginning to Beyond, 33%
+-Git and Github Bootcamp, 100%
+-Bash Mastery: Complete Guide to Bash Shell Scripting, 70%
+-
+
+The Odin Project
+-Foundations Course, 44%
+
+Mimo
+-Web Development, 100%
+-Python3, 100%
+-SQL Course, 100%
+
+Grasshopper
+-Foundations I, 100%
+-Foundations II, 100%
+-Intro to Interviewing, 80%
+
+LinkedIn Learning
+-Bash Shell Scripting for Automation, 100%
+
+Harvard's CS50
+-
