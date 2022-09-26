@@ -116,10 +116,31 @@ TutorDoctor  +  OBU Student Success Center  +  Private Tutor
 
 Skills
 
+
+* * * * *
 Excellent Writing Communication
 
+
+* * * *
+Linux + Bash
+
+
+* * *
 Intermediate German
 
+
+* *
 Basic Japanese Writing
 
+
+* * * *
+GIMP + Photoshop
+
+
+* * * * *
+Wordprocessing
+
+
+*
+SQL + Python
 
